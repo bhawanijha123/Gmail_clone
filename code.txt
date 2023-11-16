@@ -1,0 +1,16 @@
+div class="emaillist">
+        <div class="emaillist_setting">
+          <div class="emaillist_settingleft">
+            <input type="checkbox" />
+            <span class="material-icons"> arrow_drop_down</span>
+            <span class="material-icons"> redo</span>
+            <span class="material-icons"> more_vert</span>
+          </div>
+          <div class="emaillist_settingright">
+            <span class="material-icons">chevron_left</span>
+            <span class="material-icons">chevron_right</span>
+            <span class="material-icons">keyboard_hide</span>
+            <span class="material-icons">settings</span>
+          </div>
+        </div>
+      </div>
